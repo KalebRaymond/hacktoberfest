@@ -38,6 +38,11 @@
 - Bio: A student happy to write code and poetry.
 - GitHub: [Apoorva Sharma](https://github.com/okatticus)
 
+
+#### Name: [VISHAL BHARDWAJ](https://github.com/srdevelopervishal)
+- Place: New Delhi, India
+- Bio: I Like Editing.
+- GitHub: [Vishal Bhardwaj](https://github.com/srdevelopervishal)
 #### Name: [Aayush Sharma](https://github.com/aayusharma)
 - Place: Mandi, Himachal Pradesh, India
 - Bio: IITian
